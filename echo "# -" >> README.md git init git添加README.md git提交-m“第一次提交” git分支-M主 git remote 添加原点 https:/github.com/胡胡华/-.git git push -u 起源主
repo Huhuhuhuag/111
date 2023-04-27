@@ -1,0 +1,7 @@
+echo "# -" >> README.md
+git init
+git添加README.md
+git提交-m“第一次提交”
+git分支-M主
+git remote 添加原点 https://github.com/Huhuhuhuag/-.git
+git push -u 起源主
